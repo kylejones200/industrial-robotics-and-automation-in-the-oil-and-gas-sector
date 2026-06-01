@@ -11,14 +11,7 @@ Safety improvement is one of the key benefits of using industrial robots for dri
 
 Another advantage of using industrial robots for drilling is the increase in efficiency. Robots can operate continuously without rest or breaks, which speeds up drilling processes and increases production. Additionally, robots can perform drilling tasks with greater precision and accuracy than humans, resulting in fewer errors and less waste.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
